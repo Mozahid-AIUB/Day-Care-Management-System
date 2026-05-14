@@ -1,0 +1,141 @@
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe.config
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Properties.Resources.resources
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Home_Page.resources
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Login_Page.resources
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Profile_Page.resources
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Update_page.resources
+C:\Users\shami\Desktop\ChildCareManagementSystem\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Database_Profiles.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe.config
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Login_Page.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Profile_Page.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Update_page.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Database_Profiles.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Home_Page.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Properties.Resources.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_login.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_signup.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_home.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.bkash.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.card.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.nursery.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.payment1.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pre_school.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.showUpdateProfile.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toddlers.resources
+C:\Users\shami\Desktop\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toy_store.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe.config
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Login_Page.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Profile_Page.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Update_page.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.bkash.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.card.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Database_Profiles.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.nursery.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_home.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_signup.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_login.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Home_Page.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.payment1.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pre_school.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Properties.Resources.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.showUpdateProfile.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toddlers.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toy_store.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Child_Update_Profile.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_hire_staff.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.applicant.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_Login.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff_home.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_show.resources
+C:\Users\shami\Desktop\CMS 1.4\CMS 1.3\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.assign_staff.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe.config
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_hire_staff.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Login_Page.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Profile_Page.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Update_page.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.applicant.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.assign_staff.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.bkash.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.card.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Child_Update_Profile.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Database_Profiles.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.nursery.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_home.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_signup.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_login.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Home_Page.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.payment1.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pre_school.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Properties.Resources.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.showUpdateProfile.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff_home.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_Login.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_show.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toddlers.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toy_store.resources
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.GenerateResource.cache
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pdb
+C:\Users\shami\Desktop\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff_child.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe.config
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.exe
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\bin\Debug\ChildCareManagementSystem.pdb
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.AssemblyReference.cache
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe.config
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_hire_staff.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Login_Page.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Profile_Page.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Admin_Update_page.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.applicant.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.assign_staff.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.bkash.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.card.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Child_Update_Profile.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Database_Profiles.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.nursery.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_home.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_signup.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.guardian_login.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Home_Page.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.payment1.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pre_school.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Properties.Resources.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.showUpdateProfile.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff_child.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.staff_home.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_Login.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.Staff_show.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toddlers.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.toy_store.resources
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.GenerateResource.cache
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.csproj.CoreCompileInputs.cache
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.exe
+D:\AIUB\SEMESTER 06\C#\Final Projects\CMS 1.5\CMS 1.5\ChildCareManagementSystem\obj\Debug\ChildCareManagementSystem.pdb

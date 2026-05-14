@@ -1,0 +1,891 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|d:\\aiub\\semester 06\\c#\\final projects\\cms 1.5\\cms 1.5\\childcaremanagementsystem\\guardian_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|d:\\aiub\\semester 06\\c#\\final projects\\cms 1.5\\cms 1.5\\childcaremanagementsystem\\database_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\database_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\database_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\database_profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\child_update_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\child_update_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\child_update_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\child_update_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\assign_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\assign_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\assign_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\assign_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_update_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_update_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_update_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_update_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_profile_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_profile_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_profile_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_profile_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|d:\\aiub\\semester 06\\c#\\final projects\\cms 1.5\\cms 1.5\\childcaremanagementsystem\\admin_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_hire_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_hire_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\admin_hire_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\admin_hire_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\showupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\showupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\payment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\payment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\nursery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\nursery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\nursery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\nursery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\toy_store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\toy_store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\toddlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\toddlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\pre_school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\pre_school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\toy_store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\toy_store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\payment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\payment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\showupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\showupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff_show.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff_show.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\guardian_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\guardian_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\toddlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\toddlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\childcaremanagementsystem\\pre_school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C81D2-D174-49E7-A16C-26B3C5606472}|ChildCareManagementSystem\\ChildCareManagementSystem.csproj|solutionrelative:childcaremanagementsystem\\pre_school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guardian_home.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_home.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_home.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:55:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guardian_login.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_login.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_login.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_login.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:44:56.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "guardian_login.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_login.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_login.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_login.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_login.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:18:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "guardian_signup.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_signup.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_signup.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_signup.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_signup.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:34:40.471Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guardian_signup.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_signup.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_signup.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_signup.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_signup.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:39:12.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "guardian_home.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_home.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:36:56.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database_Profiles.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Database_Profiles.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Database_Profiles.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Database_Profiles.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\Database_Profiles.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:53:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Child_Update_Profile.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Child_Update_Profile.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Child_Update_Profile.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Child_Update_Profile.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\Child_Update_Profile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:48:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Child_Update_Profile.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Child_Update_Profile.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Child_Update_Profile.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Child_Update_Profile.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\Child_Update_Profile.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:47:03.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "card.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\card.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\card.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\card.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\card.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:51:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "card.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\card.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\card.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\card.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\card.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:34:19.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bkash.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\bkash.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\bkash.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\bkash.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\bkash.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:38:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Database_Profiles.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Database_Profiles.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Database_Profiles.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Database_Profiles.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\Database_Profiles.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:36:55.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bkash.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\bkash.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\bkash.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\bkash.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\bkash.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:34:19.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "assign_staff.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\assign_staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\assign_staff.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\assign_staff.cs*",
+              "RelativeToolTip": "ChildCareManagementSystem\\assign_staff.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:29:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "assign_staff.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\assign_staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\assign_staff.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\assign_staff.cs [Design]*",
+              "RelativeToolTip": "ChildCareManagementSystem\\assign_staff.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:29:07.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "applicant.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\applicant.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\applicant.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\applicant.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\applicant.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:44:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "applicant.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\applicant.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\applicant.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\applicant.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\applicant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:40:35.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin_Update_page.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Update_page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Update_page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Update_page.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Update_page.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_Update_page.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Update_page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Update_page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Update_page.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Update_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:36:44.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin_Profile_Page.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:28:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin_Profile_Page.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Profile_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Profile_Page.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Profile_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:51:43.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin_Login_Page.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:11:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin_Login_Page.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_Login_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_Login_Page.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_Login_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:51:42.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin_hire_staff.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:31:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin_hire_staff.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Admin_hire_staff.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Admin_hire_staff.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Admin_hire_staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:29:52.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\App.config",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\App.config",
+              "RelativeToolTip": "ChildCareManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T09:37:25.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home_Page.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Home_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Home_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Home_Page.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Home_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:54:34.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Home_Page.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Home_Page.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Home_Page.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Home_Page.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Home_Page.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:28:03.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "showUpdateProfile.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\showUpdateProfile.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\showUpdateProfile.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\showUpdateProfile.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\showUpdateProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:45:47.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "payment1.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\payment1.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\payment1.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\payment1.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\payment1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:54:15.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "nursery.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\nursery.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\nursery.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\nursery.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\nursery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:51:53.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Staff_Login.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_Login.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Staff_Login.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_Login.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\Staff_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:48:23.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "nursery.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\nursery.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\nursery.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\nursery.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\nursery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:51:56.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Program.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Program.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:53:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "staff_home.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_home.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff_home.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_home.cs [Design]",
+              "RelativeToolTip": "ChildCareManagementSystem\\staff_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:16:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "toddlers.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toddlers.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\toddlers.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toddlers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:52:14.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Staff_show.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Staff_show.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:21:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "toy_store.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toy_store.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\toy_store.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toy_store.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:52:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "staff_child.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_child.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff_child.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_child.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:28:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "staff.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:37:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "pre_school.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\pre_school.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\pre_school.cs",
+              "ToolTip": "C:\\Users\\shami\\Desktop\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\pre_school.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:53:45.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "staff_child.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_child.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff_child.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_child.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\staff_child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:29:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "staff_home.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_home.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff_home.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff_home.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\staff_home.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:17:37.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Staff_show.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Staff_show.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Staff_show.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:30:35.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "toy_store.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toy_store.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\toy_store.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toy_store.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\toy_store.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:53:00.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "payment1.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\payment1.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\payment1.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\payment1.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\payment1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAEwEIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:02:05.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "showUpdateProfile.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\showUpdateProfile.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\showUpdateProfile.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\showUpdateProfile.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\showUpdateProfile.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAjwHABAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:45:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Staff_Login.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_Login.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Staff_Login.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_Login.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Staff_Login.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:49:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Staff_show.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.Designer.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\Staff_show.Designer.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\Staff_show.Designer.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\Staff_show.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:30:01.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "guardian_home.Designer.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.Designer.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\guardian_home.Designer.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\guardian_home.Designer.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\guardian_home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:04:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "staff.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\staff.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\staff.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\staff.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:20:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "toddlers.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toddlers.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\toddlers.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\toddlers.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\toddlers.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:52:16.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "pre_school.cs",
+              "DocumentMoniker": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\pre_school.cs",
+              "RelativeDocumentMoniker": "ChildCareManagementSystem\\pre_school.cs",
+              "ToolTip": "D:\\AIUB\\SEMESTER 06\\C#\\Final Projects\\CMS 1.5\\CMS 1.5\\ChildCareManagementSystem\\pre_school.cs",
+              "RelativeToolTip": "ChildCareManagementSystem\\pre_school.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:53:46.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
